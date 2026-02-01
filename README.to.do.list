@@ -1,0 +1,43 @@
+# To-Do List App
+
+A simple To-Do List application built with HTML, CSS, and JavaScript.  
+Allows users to add tasks, mark them as completed, and delete them
+
+## How to Use
+
+1. Open `index.html` in your browser.
+2. Type your task in the input box.
+3. Click "Add" to add the task.
+4. Click on the task to mark it as completed.
+5. Click the delete button to remove a task.
+
+---
+
+## Features
+
+- Add tasks dynamically
+- Mark tasks as completed
+- Delete tasks
+- Simple and responsive design
+
+---
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## Badges
+
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
+---
+
+## License
+
+This project is licensed under the MIT License.
